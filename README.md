@@ -1,1 +1,1 @@
-Custom Scoreboard
+Custom Fighting Scoreboard
